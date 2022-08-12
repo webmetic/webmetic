@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @webmetic
-- 👀 I’m interested in Cryptocurrency, applications and AI 
-- 🌱 I’m currently learning AWS cloud and Django
-- 💞️ I’m looking to collaborate on .....friendship?
-- 📫 How to reach me add a readme to my projects maybe?
+Hi, call me Metic. Or whatever you'd like. 
 
-<!---
-webmetic/webmetic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am young and still learning. This repo is just me being cute with my code to future me (it's wonderful looking back at some of my junk code). Pick-up whatever you like and email me if you're using it (makes me happy 😊).
